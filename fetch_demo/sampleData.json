@@ -2,16 +2,19 @@
   {
     "user": "@neko",
     "title": "ネコの一日",
-    "thumb": "images/thumb1.jpg"
+    "thumb": "images/thumb1.jpg",
+    "dummy": "猫の画像"
   },
   {
     "user": "@dog",
     "title": "犬のさんぽ",
-    "thumb": "images/thumb2.jpg"
+    "thumb": "images/thumb2.jpg",
+    "dummy": "犬の画像"
   },
   {
     "user": "@bird",
     "title": "空を飛ぶ鳥",
-    "thumb": "images/thumb3.jpg"
+    "thumb": "images/thumb3.jpg",
+    "dummy": "鳥の画像"
   }
 ]
