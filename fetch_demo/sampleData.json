@@ -2,19 +2,19 @@
   {
     "user": "@neko",
     "title": "ネコの一日",
-    "thumb": "~/img/home.png",
+    "thumb": "https://kkkkame0721.github.io/p5assets/img/home.png",
     "dummy": "猫の画像"
   },
   {
     "user": "@dog",
     "title": "犬のさんぽ",
-    "thumb": "images/thumb2.jpg",
+    "thumb": "https://kkkkame0721.github.io/p5assets/img/ticket_used.png",
     "dummy": "犬の画像"
   },
   {
     "user": "@bird",
     "title": "空を飛ぶ鳥",
-    "thumb": "images/thumb3.jpg",
+    "thumb": "https://kkkkame0721.github.io/p5assets/img/memory_map.png",
     "dummy": "鳥の画像"
   }
 ]
